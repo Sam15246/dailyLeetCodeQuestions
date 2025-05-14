@@ -38,11 +38,11 @@ class Solution {
 }
 
 
-public class Main {
-    public static void main(String[] args) {
-        Solution sol = new Solution();
-        System.out.println(sol.lengthAfterTransformations("abcyy", 2)); // Output: 7
-        System.out.println(sol.lengthAfterTransformations("azbk", 1));  // Output: 5
-        System.out.println(sol.lengthAfterTransformations("xldzmhgvhbxwxfwzqxikyvapbicpcxbzogakoukv", 6608)); // Should now pass
-    }
-}
+// public class Main {
+//     public static void main(String[] args) {
+//         Solution sol = new Solution();
+//         System.out.println(sol.lengthAfterTransformations("abcyy", 2)); // Output: 7
+//         System.out.println(sol.lengthAfterTransformations("azbk", 1));  // Output: 5
+//         System.out.println(sol.lengthAfterTransformations("xldzmhgvhbxwxfwzqxikyvapbicpcxbzogakoukv", 6608)); // Should now pass
+//     }
+// }
